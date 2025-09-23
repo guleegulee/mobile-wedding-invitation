@@ -32,7 +32,7 @@
         ]
       }
     },
-    "eventDetail": "2025년 10월 19일 (일) 12:30\n수원 월드컵 경기장 WI 웨딩홀 - I홀"
+    "eventDetail": "2025년 10월 19일 (일) 12:30\n수원 월드컵 경기장 WI 웨딩홀 - I홀\n수원 월드컵 경기장 4주차장 또는 7주차장"
   },
   "hostInfo": [
     {
@@ -88,7 +88,7 @@
   ],
   "mapInfo": {
     "address1": "WI컨벤션 i홀",
-    "address2": "경기 수원시 팔달구 월드컵로 310\n수원 월드컵 경기장 내",
+    "address2": "경기 수원시 팔달구 월드컵로 310\n수원 월드컵 경기장 내\n 4주차장 또는 7주차장",
     "naverMap": "https://naver.me/GI3JJPcU",
     "kakaoMap": "https://map.kakao.com/?urlX=507951.99999999866&urlY=1052008.0000000005&urlLevel=3&itemId=27446151&q=WI%EC%BB%A8%EB%B2%A4%EC%85%98&srcid=27446151&map_type=TYPE_MAP",
     "lat": 37.2848993,
